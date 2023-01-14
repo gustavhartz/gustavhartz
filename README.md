@@ -3,9 +3,6 @@
 <a href="https://github.com/gustavhartz">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=gustavhartz&show_icons=true&theme=bear" />
 </a>
-<a href="https://github.com/gustavhartz">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavhartz&layout=compact&theme=bear&hide=html,css" />
-</a>
 
 
 <!--

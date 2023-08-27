@@ -1,8 +1,6 @@
 ## Software/ML developer and entrepreneur  
 
-<a href="https://github.com/gustavhartz">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=gustavhartz&show_icons=true&theme=bear" />
-</a>
+
 
 Co-founder of [Veriply](veriply.io)
 Founder of [Voxtir](veriply.io)
@@ -17,6 +15,10 @@ Experince in
 * GCP - built multiple applications
 * Bigquery, SQL, PostgreSQL, Oracle
 
+
+<a href="https://github.com/gustavhartz">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=gustavhartz&show_icons=true&theme=bear" />
+</a>
 <!--
 **gustavhartz/gustavhartz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

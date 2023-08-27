@@ -3,6 +3,7 @@
 
 
 Co-founder of [Veriply](veriply.io)
+
 Founder of [Voxtir](veriply.io)
 
 Experince in 

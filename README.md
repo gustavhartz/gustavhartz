@@ -1,9 +1,21 @@
-### Hi there 👋
+## Software/ML developer and entrepreneur  
 
 <a href="https://github.com/gustavhartz">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=gustavhartz&show_icons=true&theme=bear" />
 </a>
 
+Co-founder of [Veriply](veriply.io)
+Founder of [Voxtir](veriply.io)
+
+Experince in 
+* Typescript
+* Python (Most ml frameworks and datascience
+* Java (Worked on large legacy systems)
+* API's: GQL, Rest, Websocket
+* Docker
+* AWS - built multiple applications
+* GCP - built multiple applications
+* Bigquery, SQL, PostgreSQL, Oracle
 
 <!--
 **gustavhartz/gustavhartz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
